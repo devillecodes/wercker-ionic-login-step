@@ -1,0 +1,17 @@
+name: ionic-login
+version: 1.0.0
+description: Log into Ionic.io via Ionic CLI.
+keywords:
+  - ionic
+  - login
+properties:
+  email:
+    type: string
+    required: true
+  password:
+    type: string
+    required: true
+  debug:
+    type: string
+    default: "false"
+    required: false
