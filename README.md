@@ -11,7 +11,7 @@ login command. Options are passed along to the `ionic` executable as is.
 
 * `email` - Email used to sign in on Ionic.io.
 * `password` - Password used to sign in on Ionic.io.
-* `debug` - (Optional) Prints out the command that is executed to the console. **Warning this prints the everything in the clear, including the password.** Possible values are `true` or `false`. Defaults to `false`.
+* `debug` - (Optional) Prints out the command that is executed to the console. **Warning this prints everything in the clear, including the password.** Possible values are `true` or `false`. Defaults to `false`.
 
 # Example
 
